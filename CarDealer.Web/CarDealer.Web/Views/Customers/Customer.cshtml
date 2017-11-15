@@ -1,0 +1,37 @@
+﻿@model GetById
+
+@{
+    ViewData["Title"] = "Customer";
+}
+
+<h2>Customer Information</h2>
+
+<table class=" table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Bought Cars
+            </th>
+            <th>
+                Total Spent Money
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>
+            @Model.Customer.Name
+        </th>
+        <th>
+            @Model.Customer.BoughtCarsCount
+        </th>
+        <th>
+            @Model.Customer.SpentMoney
+        </th>
+    </tr>
+    </tbody>
+</table>
+

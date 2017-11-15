@@ -1,0 +1,16 @@
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.deps.json
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.runtimeconfig.json
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.runtimeconfig.dev.json
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.dll
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.pdb
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.AssemblyInfoInputs.cache
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.AssemblyInfo.cs
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.dll
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.pdb
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Data.dll
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Data.pdb
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Services.dll
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Services.pdb

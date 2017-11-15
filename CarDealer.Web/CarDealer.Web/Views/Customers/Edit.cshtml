@@ -1,0 +1,32 @@
+﻿@model CustomerFormModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit Customer</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div class="form-group">
+                <label asp-for="Name">Name</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="form-text text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Birthdate">Birthdate</label>
+                <input asp-for="Birthdate" class="form-control" />
+                <span asp-validation-for="Birthdate" class="form-text text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IsYoungDriver">Young Driver</label>
+                <input asp-for="IsYoungDriver" />
+                <span asp-validation-for="IsYoungDriver" class="form-text text-danger"></span>
+            </div>
+            <div>
+                <input class="btn btn-warning" type="submit" value="Edit Customer" />
+            </div>
+        </form>
+    </div>
+</div>

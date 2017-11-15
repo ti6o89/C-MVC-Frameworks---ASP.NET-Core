@@ -1,0 +1,11 @@
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.deps.json
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.dll
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.AssemblyInfoInputs.cache
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.AssemblyInfo.cs
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Services.pdb
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Data.dll
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Services\bin\Debug\netstandard2.0\CarDealer.Data.pdb
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.dll
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\CarDealer.Web\CarDealer.Services\obj\Debug\netstandard2.0\CarDealer.Services.pdb
