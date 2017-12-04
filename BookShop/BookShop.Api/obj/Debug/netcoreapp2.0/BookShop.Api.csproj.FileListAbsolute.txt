@@ -1,0 +1,17 @@
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Api.deps.json
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Api.runtimeconfig.json
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Api.runtimeconfig.dev.json
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Api.dll
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Api.pdb
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.csproj.CoreCompileInputs.cache
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.AssemblyInfoInputs.cache
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.AssemblyInfo.cs
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.dll
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\BookShop\BookShop.Api\obj\Debug\netcoreapp2.0\BookShop.Api.pdb
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Services.dll
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Common.dll
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Common.pdb
+E:\SoftUni\C# MVC Frameworks - ASP.NET Core\BookShop\BookShop.Api\bin\Debug\netcoreapp2.0\BookShop.Services.pdb
